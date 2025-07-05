@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏼 Searching for good opportunities to make myself better.<br>🔭 I’m currently working on a SaaS product in TypeScript.<br>👯 I’m looking to collaborate on Email : sayanp650@gmail.com<br>👋🏼 Here is my portfolio website : https://portfofilo2-0.vercel.app/<br>🤝 I’m looking for help with understanding Linux.<br>🌱 I’m currently learning NextJS, Rust and React Native.<br>💬 Ask me about Web Development.<br>
+👋🏼 Searching for good opportunities to make myself better.<br>🔭 I’m currently working on a SaaS product in TypeScript.<br>👯 I’m looking to collaborate on Email : sayanp650@gmail.com<br>👋🏼 Here is my portfolio website : https://sayanfolio.vercel.app/<br>🤝 I’m looking for help with understanding Linux.<br>🌱 I’m currently learning NextJS, Rust and React Native.<br>💬 Ask me about Web Development.<br>
 
 
 ## 🌐 Socials:
